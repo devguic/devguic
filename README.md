@@ -5,7 +5,7 @@
 
 
 
-![Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCR0cha&show_icons=true&theme=dark)
+![Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=devguic&show_icons=true&theme=dark)
 
 ##  **Technologies and Tools**
 
@@ -16,7 +16,7 @@
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCR0cha&hide_progress=false&bg_color=000000&title_color=2bd4ad&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devguic&hide_progress=false&bg_color=000000&title_color=2bd4ad&text_color=ffffff)
 
 
 
